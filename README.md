@@ -19,4 +19,7 @@
 - [Demo 1](https://github.com/Grandolf49/java-multithreading/blob/master/src/tutorial4/demo1/Worker.java) - Use of **synchronized** blocks
 
 ### Tutorial 5
-- [Demo 1](https://github.com/Grandolf49/java-multithreading/blob/master/src/tutorial5/demo1/App.java) - Thread Pools
+- [Demo 1](https://github.com/Grandolf49/java-multithreading/blob/master/src/tutorial5/demo1/App.java) - **Thread Pools**
+
+### Tutorial 6
+- [Demo 1](https://github.com/Grandolf49/java-multithreading/blob/master/src/tutorial6/demo1/App.java) - **Count Down Latch**
