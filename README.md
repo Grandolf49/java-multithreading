@@ -23,3 +23,6 @@
 
 ### Tutorial 6
 - [Demo 1](https://github.com/Grandolf49/java-multithreading/blob/master/src/tutorial6/demo1/App.java) - **Count Down Latch**
+
+### Tutorial 7
+- [Demo 1](https://github.com/Grandolf49/java-multithreading/blob/master/src/tutorial7/demo1/App.java) - **Producer Consumer** using **BlockingQueue**
