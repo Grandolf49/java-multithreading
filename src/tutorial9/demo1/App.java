@@ -1,5 +1,12 @@
 package tutorial9.demo1;
 
+/***
+ * An example of Producer Consumer problem using low level synchronization i.e.
+ * using synchronized blocks and locks.
+ * 
+ * @author chinm
+ *
+ */
 public class App {
 
 	public static void main(String[] args) throws InterruptedException {
